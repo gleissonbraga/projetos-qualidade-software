@@ -3,7 +3,7 @@
 ## 👥 Integrantes
 - Gleisson Braga — 632320047
 - Jonatas Davi — 181900790
-- Natalia Morandi — Matrícula
+- Natalia Morandi — 632320014
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade de Software, realizadas por meio da metodologia PBL.
