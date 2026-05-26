@@ -1,0 +1,26 @@
+{
+  "name": "projetos-qualidade-software",
+  "version": "1.0.0",
+  "description": "- Gleisson Braga — 632320047\r - Jonatas Davi — 181900790\r - Natalia Morandi — 632320014",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleissonbraga/projetos-qualidade-software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gleissonbraga/projetos-qualidade-software/issues"
+  },
+  "homepage": "https://github.com/gleissonbraga/projetos-qualidade-software#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
