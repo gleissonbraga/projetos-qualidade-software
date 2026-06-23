@@ -10,8 +10,8 @@ def test_adicionar_item_ao_carrinho(page):
     login.acessar()
 
     login.realizar_login(
-        "nataliamorandirm@gmail.com",
-        "JanD41@()"
+        "bragagleisson@gmail.com",
+        "86267723"
     )
 
     carrinho.acessar_restaurante()

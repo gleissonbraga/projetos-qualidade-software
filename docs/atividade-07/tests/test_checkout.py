@@ -9,8 +9,8 @@ def test_checkout_fluxo(page):
 
     login.acessar()
     login.realizar_login(
-        "nataliamorandirm@gmail.com",
-        "JanD41@()"
+        "jonatasdavi.ads@gmail.com",
+        "123"
     )
 
     checkout.acessar_restaurante()
