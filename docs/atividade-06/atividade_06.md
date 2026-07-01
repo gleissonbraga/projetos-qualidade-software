@@ -6,9 +6,9 @@
 ---
 
 ## 👥 Integrantes
-* **Integrante 1:** [Nome do Integrante 1]
-* **Integrante 2:** [Nome do Integrante 2]
-* **Integrante 3:** [Nome do Integrante 3]
+* **Integrante 1:** [Gleisson Braga]
+* **Integrante 2:** [Jonatas Davi]
+* **Integrante 3:** [Natalia Morandi]
 
 ---
 
