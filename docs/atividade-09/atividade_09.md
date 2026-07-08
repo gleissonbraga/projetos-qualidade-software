@@ -1,5 +1,3 @@
-# [cite_start]PBL – Aula 14 [cite: 1]
-
 ## 👥 Integrantes
 
 - Gleisson Braga
@@ -8,13 +6,13 @@
 
 ## 1. Mapeamento do Processo
 
-## Mapeamento do Processo Atual [cite: 2]
+## Mapeamento do Processo Atual
 
-* **A** – Recebimento da demanda ➔ **B** – Análise rápida do requisito [cite: 3]
-* **B** ➔ **C** - Implementação de funcionalidade [cite: 4]
-* **C** ➔ **D** - Teste Manuais Básicos [cite: 5]
-* **D** ➔ **E** – Correção de problemas encontrados [cite: 6]
-* **E** ➔ **F** – Entrega no repositório / Deploy [cite: 7]
+* **A** – Recebimento da demanda ➔ **B** – Análise rápida do requisito
+* **B** ➔ **C** - Implementação de funcionalidade
+* **C** ➔ **D** - Teste Manuais Básicos 
+* **D** ➔ **E** – Correção de problemas encontrados
+* **E** ➔ **F** – Entrega no repositório / Deploy
 
 *(Dica: No GitHub, você também pode usar blocos de código Mermaid para transformar esse fluxo em um diagrama visual automaticamente).*
 
@@ -28,14 +26,14 @@
 | Correções | Problemas identificados  | Ajustar o código e validar novamente  | Funcionalidade corrigida |
 | Entrega  | [Funcionalidade pronta  | Subir para o GitHub / Deploy no Vercel | Funcionalidade disponível  |
 
-## [cite_start]Reflexão sobre o Processo
+## Reflexão sobre o Processo
 
-1. [cite_start]O processo da equipe não é totalmente definido, mas existe uma sequência básica que todos seguem. [cite: 11]
-2. [cite_start]Nem sempre todo os integrantes seguem exatamente o mesmo fluxo, porque não há um padrão formal. [cite: 12]
-3. [cite_start]Qualidade verificada na etapa de testes manuais e nas correções. [cite: 13]
-4. [cite_start]O processo poderia melhorar com a padronização de testes, registro de bugs e uso de ferramentas de organização. [cite: 14]
-5. [cite_start]A qualidade do processo influencia diretamente o produto: quanto mais organizado o processo, menos retrabalho e menos erros aparecem no sistema. [cite: 15]
+1. O processo da equipe não é totalmente definido, mas existe uma sequência básica que todos seguem. 
+2. Nem sempre todo os integrantes seguem exatamente o mesmo fluxo, porque não há um padrão formal. 
+3. Qualidade verificada na etapa de testes manuais e nas correções. 
+4. O processo poderia melhorar com a padronização de testes, registro de bugs e uso de ferramentas de organização. 
+5. A qualidade do processo influencia diretamente o produto: quanto mais organizado o processo, menos retrabalho e menos erros aparecem no sistema. 
 
-## [cite_start]Conclusão [cite: 16]
+## Conclusão 
 
-[cite_start]O processo atual da equipe funciona, mas ainda é simples e pouco formal. [cite: 17] [cite_start]Ele garante que as funcionalidades sejam entregues, porém deixa espaço para falhas e retrabalho. [cite: 18] [cite_start]Com algumas melhorias, como padronização de testes e registro de tarefas, o processo pode ficar mais eficiente e ajudar a aumentar a qualidade do LocalEats. [cite: 19]
+O processo atual da equipe funciona, mas ainda é simples e pouco formal. Ele garante que as funcionalidades sejam entregues, porém deixa espaço para falhas e retrabalho. Com algumas melhorias, como padronização de testes e registro de tarefas, o processo pode ficar mais eficiente e ajudar a aumentar a qualidade do LocalEats.
