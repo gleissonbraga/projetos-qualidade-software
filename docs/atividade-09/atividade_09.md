@@ -8,27 +8,27 @@
 
 ## 1. Mapeamento do Processo
 
-## [cite_start]Mapeamento do Processo Atual [cite: 2]
+## Mapeamento do Processo Atual [cite: 2]
 
-* [cite_start]**A** – Recebimento da demanda ➔ **B** – Análise rápida do requisito [cite: 3]
-* [cite_start]**B** ➔ **C** - Implementação de funcionalidade [cite: 4]
-* [cite_start]**C** ➔ **D** - Teste Manuais Básicos [cite: 5]
-* [cite_start]**D** ➔ **E** – Correção de problemas encontrados [cite: 6]
-* [cite_start]**E** ➔ **F** – Entrega no repositório / Deploy [cite: 7]
+* **A** – Recebimento da demanda ➔ **B** – Análise rápida do requisito [cite: 3]
+* **B** ➔ **C** - Implementação de funcionalidade [cite: 4]
+* **C** ➔ **D** - Teste Manuais Básicos [cite: 5]
+* **D** ➔ **E** – Correção de problemas encontrados [cite: 6]
+* **E** ➔ **F** – Entrega no repositório / Deploy [cite: 7]
 
 *(Dica: No GitHub, você também pode usar blocos de código Mermaid para transformar esse fluxo em um diagrama visual automaticamente).*
 
-## [cite_start]Entradas, Atividades e Saídas [cite: 8]
+## Entradas, Atividades e Saídas
 
 | Etapa | Entrada | Atividade | Saída |
 | :--- | :--- | :--- | :--- |
-| [cite_start]Recebimento de demanda [cite: 9] | [cite_start]Solicitação ou requisitos [cite: 9] | [cite_start]Entender o que precisa ser feito [cite: 9] | [cite_start]Requisito compreendido [cite: 9] |
-| [cite_start]Desenvolvimento [cite: 9] | [cite_start]Requisitos entendido [cite: 9] | [cite_start]Implementar a funcionalidade [cite: 9] | [cite_start]Código desenvolvido [cite: 9] |
-| [cite_start]Testes [cite: 9] | [cite_start]Código implementado [cite: 9] | [cite_start]Testar manualmente o comportamento [cite: 9] | [cite_start]Lista de problemas encontrados [cite: 9] |
-| [cite_start]Correções [cite: 9] | [cite_start]Problemas identificados [cite: 9] | [cite_start]Ajustar o código e validar novamente [cite: 9] | [cite_start]Funcionalidade corrigida [cite: 9] |
-| [cite_start]Entrega [cite: 9] | [cite_start]Funcionalidade pronta [cite: 9] | [cite_start]Subir para o GitHub / Deploy no Vercel [cite: 9] | [cite_start]Funcionalidade disponível [cite: 9] |
+| Recebimento de demanda | Solicitação ou requisitos  | [Entender o que precisa ser feito | Requisito compreendido  |
+| Desenvolvimento | Requisitos entendido  | Implementar a funcionalidade | Código desenvolvido |
+| Testes | Código implementado | Testar manualmente o comportamento | Lista de problemas encontrados |
+| Correções | Problemas identificados  | Ajustar o código e validar novamente  | Funcionalidade corrigida |
+| Entrega  | [Funcionalidade pronta  | Subir para o GitHub / Deploy no Vercel | Funcionalidade disponível  |
 
-## [cite_start]Reflexão sobre o Processo [cite: 10]
+## [cite_start]Reflexão sobre o Processo
 
 1. [cite_start]O processo da equipe não é totalmente definido, mas existe uma sequência básica que todos seguem. [cite: 11]
 2. [cite_start]Nem sempre todo os integrantes seguem exatamente o mesmo fluxo, porque não há um padrão formal. [cite: 12]
