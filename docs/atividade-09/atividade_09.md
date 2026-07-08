@@ -1,5 +1,13 @@
 # [cite_start]PBL – Aula 14 [cite: 1]
 
+## 👥 Integrantes
+
+- Gleisson Braga
+- Natalia Morandi
+- jonatas Davi
+
+## 1. Mapeamento do Processo
+
 ## [cite_start]Mapeamento do Processo Atual [cite: 2]
 
 * [cite_start]**A** – Recebimento da demanda ➔ **B** – Análise rápida do requisito [cite: 3]
